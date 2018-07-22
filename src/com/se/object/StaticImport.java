@@ -1,6 +1,6 @@
 package com.se.object;
 //import  java.lang.Maths.add;//lang≤ª”√µπ
-import arraylist.test.StaticUtils;
+
 public class StaticImport {
 public static void main(String[] args) {
 	int a=3;

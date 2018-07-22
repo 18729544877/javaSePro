@@ -3,7 +3,6 @@ package com.se.object.set;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-import collection.test.Student;
 
 public class ArrayListDemo {
 public static void main(String[] args) {

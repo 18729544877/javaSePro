@@ -3,12 +3,10 @@ package com.se.object;
 import java.util.ArrayList;
 import java.util.Vector;
 
-import set.test.Student;
-
 public class ArrayListAddVector {
 public static void main(String[] args) {
 	ArrayList<Vector<Student>>    avs = new ArrayList<Vector<Student>>();
-	Vector<Student>  vs = new Vector<Student>();
+	Vector<com.se.object.Student>  vs = new Vector<Student>();
 	vs.add(new Student("ÍôÀÚ1",12));
 	vs.add(new Student("ÍôÀÚ2",12));
 	vs.add(new Student("ÍôÀÚ3",12));

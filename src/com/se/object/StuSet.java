@@ -3,11 +3,11 @@ package com.se.object;
 import java.util.HashSet;
 import java.util.Iterator;
 
-import set.test.Student;
+
 
 public class StuSet {
 public static  void main(String[] args) {
-	HashSet<Student> hs= new HashSet<Student>();
+	HashSet<com.se.object.Student> hs= new HashSet<Student>();
 
    hs.add(new Student("张三1",22));
    hs.add(new Student("张三1",23));
