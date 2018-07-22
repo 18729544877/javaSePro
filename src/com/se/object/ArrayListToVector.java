@@ -4,7 +4,7 @@ package com.se.object;
 import java.util.ArrayList;
 import java.util.Vector;
 
-import set.test.Student;
+
 
 public class ArrayListToVector {
 public static void main(String[] args) {

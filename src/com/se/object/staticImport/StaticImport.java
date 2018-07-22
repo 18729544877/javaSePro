@@ -1,4 +1,4 @@
-package com.se.object;
+package com.se.object.staticImport;
 //import  java.lang.Maths.add;//lang≤ª”√µπ
 
 public class StaticImport {

@@ -3,7 +3,7 @@ package com.se.object;
 import java.util.ArrayList;
 import java.util.HashSet;
 
-import set.test.Student;
+
 
 public class ChuChongDuiXiang {
 public static void main(String[] args) {

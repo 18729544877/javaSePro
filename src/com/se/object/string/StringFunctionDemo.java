@@ -1,4 +1,4 @@
-package com.se.object;
+package com.se.object.string;
 
 import java.util.Scanner;
 

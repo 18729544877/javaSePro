@@ -11,11 +11,11 @@ public class NoRepeatNumberWay {
 	}
 
 	private static String[] noRepeatNumberTen(int i) {
+		String[] ss = new String[10];
 		for (int j = 0; j < i; j++) {
-			
-			//BigDecimal d = (BigInteger)Math.random()*9000000000+1000000000;
+			ss[j] = (Math.random()*90+ 100) + "";
 		}
-		return null;
+		return ss;
 	}
 
 	private static void outPut(String[] str) {

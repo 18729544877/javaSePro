@@ -1,4 +1,4 @@
-package com.se.object;
+package com.se.object.scanner;
 
 import java.util.Comparator;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.se.object;
+package com.se.object.set;
 
 import java.util.HashSet;
 import java.util.Iterator;
