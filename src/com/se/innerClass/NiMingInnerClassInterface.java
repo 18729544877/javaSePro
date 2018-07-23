@@ -17,4 +17,4 @@ class Outer2{
 }
 interface Inner2{//定义接口
 	void show();
-}
+}//此处的借口不可以省略
