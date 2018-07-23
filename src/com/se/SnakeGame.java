@@ -8,7 +8,6 @@ import javax.swing.JOptionPane;
 
 public class SnakeGame extends JFrame implements KeyListener {
 	private int stat = 1, 
-			
 			direction = 0, 
 			bodylen = 6, 
 			headx = 7, 
